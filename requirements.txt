@@ -1,0 +1,6 @@
+discord.py==2.3.2
+bitcoinlib==0.6.11
+requests==2.31.0
+python-dotenv==1.0.0  # Optional for .env support
+aiohttp==3.8.5  # Required by discord.py
+sqlite3==3.39.0  # Built-in but specified for clarity
